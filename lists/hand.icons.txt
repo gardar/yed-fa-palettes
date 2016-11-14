@@ -1,0 +1,17 @@
+hand-grab-o.svg
+hand-lizard-o.svg
+hand-o-down.svg
+hand-o-left.svg
+hand-o-right.svg
+hand-o-up.svg
+hand-paper-o.svg
+hand-peace-o.svg
+hand-pointer-o.svg
+hand-rock-o.svg
+hand-scissors-o.svg
+hand-spock-o.svg
+hand-stop-o.svg
+thumbs-down.svg
+thumbs-o-down.svg
+thumbs-o-up.svg
+thumbs-up.svg

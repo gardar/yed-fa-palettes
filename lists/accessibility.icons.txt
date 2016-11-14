@@ -1,0 +1,19 @@
+american-sign-language-interpreting.svg
+asl-interpreting (alias).svg
+assistive-listening-systems.svg
+audio-description.svg
+blind.svg
+braille.svg
+cc.svg
+deaf.svg
+deafness (alias).svg
+hard-of-hearing (alias).svg
+low-vision.svg
+question-circle-o.svg
+sign-language.svg
+signing (alias).svg
+tty.svg
+universal-access.svg
+volume-control-phone.svg
+wheelchair.svg
+wheelchair-alt.svg

@@ -1,0 +1,14 @@
+genderless.svg
+intersex.svg
+mars.svg
+mars-double.svg
+mars-stroke.svg
+mars-stroke-h.svg
+mars-stroke-v.svg
+mercury.svg
+neuter.svg
+transgender.svg
+transgender-alt.svg
+venus.svg
+venus-double.svg
+venus-mars.svg

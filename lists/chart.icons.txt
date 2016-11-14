@@ -1,0 +1,5 @@
+area-chart.svg
+bar-chart.svg
+bar-chart-o.svg
+line-chart.svg
+pie-chart.svg

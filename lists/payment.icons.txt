@@ -1,0 +1,12 @@
+cc-amex.svg
+cc-diners-club.svg
+cc-discover.svg
+cc-jcb.svg
+cc-mastercard.svg
+cc-paypal.svg
+cc-stripe.svg
+cc-visa.svg
+credit-card.svg
+credit-card-alt.svg
+google-wallet.svg
+paypal.svg

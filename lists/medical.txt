@@ -1,0 +1,12 @@
+ambulance.svg
+h-square.svg
+heart.svg
+heart-o.svg
+heartbeat.svg
+hospital-o.svg
+medkit.svg
+plus-square.svg
+stethoscope.svg
+user-md.svg
+wheelchair.svg
+wheelchair-alt.svg

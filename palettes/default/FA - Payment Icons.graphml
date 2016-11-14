@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:java="http://www.yworks.com/xml/yfiles-common/1.0/java" xmlns:sys="http://www.yworks.com/xml/yfiles-common/markup/primitives/2.0" xmlns:x="http://www.yworks.com/xml/yfiles-common/markup/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:y="http://www.yworks.com/xml/graphml" xmlns:yed="http://www.yworks.com/xml/yed/3" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://www.yworks.com/xml/schema/graphml/1.1/ygraphml.xsd">
+  <!--Created by yEd 3.16.2.1-->
+  <key for="port" id="d0" yfiles.type="portgraphics"/>
+  <key for="port" id="d1" yfiles.type="portgeometry"/>
+  <key for="port" id="d2" yfiles.type="portuserdata"/>
+  <key attr.name="yed.palette.node.name" attr.type="string" for="node" id="d3"/>
+  <key attr.name="Palette ToolTip" attr.type="string" for="node" id="d4"/>
+  <key attr.name="url" attr.type="string" for="node" id="d5"/>
+  <key attr.name="description" attr.type="string" for="node" id="d6"/>
+  <key for="node" id="d7" yfiles.type="nodegraphics"/>
+  <key for="graphml" id="d8" yfiles.type="resources"/>
+  <key attr.name="yed.palette.edge.name" attr.type="string" for="edge" id="d9"/>
+  <key attr.name="Palette ToolTip" attr.type="string" for="edge" id="d10"/>
+  <key attr.name="url" attr.type="string" for="edge" id="d11"/>
+  <key attr.name="description" attr.type="string" for="edge" id="d12"/>
+  <key for="edge" id="d13" yfiles.type="edgegraphics"/>
+  <graph edgedefault="directed" id="G">
+    <node id="n0">
+      <data key="d3"><![CDATA[be84d58a-d4a9-407e-b11a-cb9aacf7aa59]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="24.000001907348633" width="36.002994537353516" x="0.0" y="32.0"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="16.001497268676758" y="28.000001907348633"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="1"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n1">
+      <data key="d3"><![CDATA[cfabb693-129e-48f4-bb40-a4a7159a94c1]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="24.0" width="36.0" x="66.00299453735352" y="32.000000953674316"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="16.0" y="28.0"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="2"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n2">
+      <data key="d3"><![CDATA[a5204b98-c1ac-4bc7-aaa6-e90f6dc91fe2]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="24.0" width="36.000999450683594" x="132.00299453735352" y="32.000000953674316"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="16.000499725341797" y="28.0"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="3"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n3">
+      <data key="d3"><![CDATA[e6c9ec7b-e994-4822-8f38-1e8915dba84a]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="24.0" width="36.0" x="198.0039939880371" y="32.000000953674316"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="16.0" y="28.0"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="4"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n4">
+      <data key="d3"><![CDATA[8eabe6d1-2eee-4fe1-985c-4d449a974187]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="24.0" width="36.0" x="264.0039939880371" y="32.000000953674316"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="16.0" y="28.0"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="5"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n5">
+      <data key="d3"><![CDATA[92262c79-d9db-4ff6-9799-68268a7742b1]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="24.0" width="36.0" x="330.0039939880371" y="32.000000953674316"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="16.0" y="28.0"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="6"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n6">
+      <data key="d3"><![CDATA[d28e8908-979d-4cc1-8098-342d89f69234]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="24.0" width="36.0" x="396.0039939880371" y="32.000000953674316"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="16.0" y="28.0"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="7"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n7">
+      <data key="d3"><![CDATA[176e1407-a51b-4c11-834e-e9cc1bc5b19b]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="24.0" width="36.0" x="462.0039939880371" y="32.000000953674316"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="16.0" y="28.0"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="8"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n8">
+      <data key="d3"><![CDATA[37b9823c-4275-448f-aae1-b04b6791fb54]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="24.0" width="36.0" x="528.0039939880371" y="32.000000953674316"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="16.0" y="28.0"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="9"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n9">
+      <data key="d3"><![CDATA[d5b6b975-d5a0-4493-956a-03969440bc7f]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="24.0" width="30.0" x="594.0039939880371" y="32.000000953674316"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="13.0" y="28.0"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="10"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n10">
+      <data key="d3"><![CDATA[775221a2-133e-4231-af48-171911f77ae2]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="28.000001907348633" width="27.59400177001953" x="654.0039939880371" y="30.0"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="11.797000885009766" y="32.00000190734863"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="11"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+    <node id="n11">
+      <data key="d3"><![CDATA[2fea93b6-949a-44bd-93a9-1eb8ffca9f5a]]></data>
+      <data key="d4"/>
+      <data key="d6"/>
+      <data key="d7">
+        <y:SVGNode>
+          <y:Geometry height="27.99900245666504" width="23.85799789428711" x="711.5979957580566" y="30.000499725341797"/>
+          <y:Fill color="#CCCCFF" transparent="false"/>
+          <y:BorderStyle color="#000000" type="line" width="1.0"/>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="sandwich" modelPosition="s" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="9.928998947143555" y="31.99900245666504"/>
+          <y:SVGNodeProperties usingVisualBounds="true"/>
+          <y:SVGModel svgBoundsPolicy="0">
+            <y:SVGContent refid="12"/>
+          </y:SVGModel>
+        </y:SVGNode>
+      </data>
+    </node>
+  </graph>
+  <data key="d8">
+    <y:Resources>
+      <y:Resource id="1">&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"&gt;
+&lt;svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36" height="28" viewBox="0 0 36 28"&gt;
+&lt;path d="M1.859 10.656h1.391l-0.703-1.687zM11.562 18.875l1.156-1.234-1.094-1.234h-2.547v0.766h2.219v0.859h-2.219v0.844h2.484zM14.031 17.656l1.547 1.719v-3.391zM18.531 16.922c0-0.375-0.281-0.516-0.625-0.516h-1.313v1.078h1.297c0.359 0 0.641-0.172 0.641-0.562zM23.047 16.859c0-0.391-0.344-0.453-0.656-0.453h-1.281v0.953h1.266c0.344 0 0.672-0.078 0.672-0.5zM18.703 9.578c0-0.391-0.344-0.453-0.656-0.453h-1.281v0.938h1.266c0.344 0 0.672-0.078 0.672-0.484zM25.875 10.656h1.391l-0.688-1.687zM10.922 8.234v4.234h-1.031v-3.313l-1.469 3.313h-0.891l-1.469-3.313v3.313h-2.063l-0.391-0.938h-2.109l-0.391 0.938h-1.094l1.813-4.234h1.5l1.719 4.016v-4.016h1.656l1.328 2.875 1.203-2.875h1.687zM19.609 16.922c0 1.703-1.859 1.422-3.016 1.422v1.422h-1.969l-1.25-1.406-1.297 1.406h-4v-4.234h4.062l1.25 1.391 1.281-1.391h3.234c0.953 0 1.703 0.328 1.703 1.391zM15.062 11.594v0.875h-3.391v-4.234h3.391v0.891h-2.375v0.766h2.312v0.859h-2.312v0.844h2.375zM36 20.328v3.578c0 1.141-0.922 2.094-2.063 2.094h-31.875c-1.141 0-2.063-0.953-2.063-2.094v-10.594h1.734l0.391-0.953h0.859l0.391 0.953h3.406v-0.719l0.297 0.719h1.766l0.313-0.734v0.734h8.453v-1.547l0.156-0.016c0.141 0 0.156 0.109 0.156 0.219v1.344h4.359v-0.359c1.016 0.531 2.406 0.359 3.469 0.359l0.391-0.953h0.875l0.391 0.953h3.547v-0.906l0.531 0.906h2.844v-5.906h-2.812v0.688l-0.391-0.688h-2.891v0.688l-0.359-0.688h-3.891c-0.578 0-1.188 0.063-1.703 0.344v-0.344h-2.688v0.344c-0.313-0.281-0.734-0.344-1.141-0.344h-9.812l-0.672 1.516-0.672-1.516h-3.094v0.688l-0.344-0.688h-2.641l-1.219 2.797v-6.109c0-1.141 0.922-2.094 2.063-2.094h31.875c1.141 0 2.063 0.953 2.063 2.094v10.594h-1.875c-0.438 0-0.906 0.078-1.266 0.344v-0.344h-2.766c-0.391 0-0.922 0.063-1.219 0.344v-0.344h-4.937v0.344c-0.375-0.266-0.922-0.344-1.359-0.344h-3.266v0.344c-0.328-0.313-1-0.344-1.422-0.344h-3.656l-0.844 0.906-0.781-0.906h-5.453v5.906h5.359l0.859-0.922 0.812 0.922h3.297v-1.391h0.328c0.469 0 0.953-0.016 1.406-0.203v1.594h2.719v-1.547h0.125c0.156 0 0.187 0.016 0.187 0.187v1.359h8.266c0.453 0 1.016-0.094 1.375-0.375v0.375h2.625c0.5 0 1.031-0.047 1.484-0.266zM24.156 16.672c0 0.469-0.25 0.938-0.719 1.125 0.562 0.203 0.672 0.578 0.672 1.125v0.844h-1.016v-0.703c0-0.719-0.234-0.844-0.906-0.844h-1.078v1.547h-1.016v-4.234h2.406c0.797 0 1.656 0.141 1.656 1.141zM19.828 9.375c0 0.484-0.266 0.953-0.719 1.141 0.578 0.203 0.672 0.562 0.672 1.125v0.828h-1.016c-0.016-0.906 0.219-1.531-0.906-1.531h-1.094v1.531h-1v-4.234l2.391 0.016c0.812 0 1.672 0.125 1.672 1.125zM28.094 18.891v0.875h-3.375v-4.234h3.375v0.875h-2.359v0.766h2.312v0.859h-2.312v0.844zM21.438 8.234v4.234h-1.031v-4.234h1.031zM32.266 18.422c0 1-0.688 1.344-1.594 1.344h-1.969v-0.906h1.969c0.25 0 0.531-0.063 0.531-0.391 0-0.906-2.609 0.344-2.609-1.672 0-0.859 0.656-1.266 1.437-1.266h2.031v0.891h-1.859c-0.266 0-0.562 0.047-0.562 0.391 0 0.922 2.625-0.422 2.625 1.609zM36 17.641v1.578c-0.297 0.438-0.875 0.547-1.375 0.547h-1.953v-0.906h1.953c0.25 0 0.516-0.078 0.516-0.391 0-0.891-2.609 0.344-2.609-1.672 0-0.859 0.672-1.266 1.453-1.266h2.016v0.891h-1.844c-0.281 0-0.562 0.047-0.562 0.391 0 0.75 1.766-0.016 2.406 0.828zM33.422 8.25v4.219h-1.437l-1.906-3.172v3.172h-2.063l-0.406-0.938h-2.094l-0.391 0.938h-1.172c-1.391 0-2.016-0.719-2.016-2.078 0-1.422 0.641-2.156 2.078-2.156h0.984v0.922c-1.062-0.016-2.031-0.25-2.031 1.203 0 0.719 0.172 1.219 0.984 1.219h0.453l1.437-3.328h1.516l1.703 4v-4h1.547l1.781 2.938v-2.938h1.031z"&gt;&lt;/path&gt;
+&lt;/svg&gt;
+</y:Resource>
+      <y:Resource id="2">&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"&gt;
+&lt;svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36" height="28" viewBox="0 0 36 28"&gt;
+&lt;path d="M13.406 19.391v-10.828c-2.172 0.844-3.719 2.953-3.719 5.422s1.547 4.578 3.719 5.406zM21.281 13.984c0-2.469-1.547-4.578-3.719-5.422v10.844c2.172-0.844 3.719-2.953 3.719-5.422zM24.641 13.984c0 5.047-4.094 9.156-9.156 9.156-5.047 0-9.156-4.109-9.156-9.156 0-5.063 4.109-9.156 9.156-9.156 5.063 0 9.156 4.094 9.156 9.156zM30.625 14.094c0-5.969-4.984-10.094-10.453-10.094h-4.703c-5.531 0-10.094 4.125-10.094 10.094 0 5.453 4.562 9.906 10.094 9.906h4.703c5.469 0 10.453-4.453 10.453-9.906zM36 4v20c0 1.094-0.906 2-2 2h-32c-1.094 0-2-0.906-2-2v-20c0-1.094 0.906-2 2-2h32c1.094 0 2 0.906 2 2z"&gt;&lt;/path&gt;
+&lt;/svg&gt;
+</y:Resource>
+      <y:Resource id="3">&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"&gt;
+&lt;svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36" height="28" viewBox="0 0 36 28"&gt;
+&lt;path d="M4.891 12.141c0 0.5-0.203 0.984-0.562 1.313-0.313 0.281-0.734 0.406-1.391 0.406h-0.266v-3.437h0.266c0.656 0 1.062 0.109 1.391 0.422 0.359 0.313 0.562 0.797 0.562 1.297zM32.641 11.125c0 0.531-0.344 0.812-1 0.812h-0.297v-1.578h0.313c0.641 0 0.984 0.266 0.984 0.766zM5.938 12.141c0-1.531-1.141-2.609-2.797-2.609h-1.484v5.203h1.484c0.781 0 1.359-0.172 1.859-0.594 0.594-0.5 0.938-1.234 0.938-2zM6.406 14.734h1.016v-5.203h-1.016v5.203zM11.406 13.156c0-0.828-0.344-1.203-1.5-1.625-0.609-0.219-0.781-0.375-0.781-0.656 0-0.328 0.313-0.578 0.75-0.578 0.313 0 0.562 0.125 0.828 0.422l0.531-0.688c-0.438-0.391-0.969-0.578-1.531-0.578-0.922 0-1.625 0.641-1.625 1.484 0 0.719 0.328 1.094 1.281 1.437 0.391 0.141 0.594 0.219 0.703 0.297 0.203 0.125 0.297 0.313 0.297 0.531 0 0.422-0.328 0.734-0.781 0.734-0.484 0-0.875-0.234-1.109-0.688l-0.656 0.625c0.469 0.688 1.031 1 1.797 1 1.062 0 1.797-0.703 1.797-1.719zM15.75 14.562v-1.203c-0.406 0.406-0.766 0.578-1.219 0.578-1.031 0-1.75-0.75-1.75-1.797 0-1 0.75-1.797 1.703-1.797 0.484 0 0.844 0.172 1.266 0.594v-1.203c-0.438-0.219-0.812-0.313-1.25-0.313-1.531 0-2.766 1.203-2.766 2.719 0 1.531 1.203 2.719 2.75 2.719 0.438 0 0.812-0.078 1.266-0.297zM35 24v-8.234c-2.5 1.563-11.297 6.563-25.516 9.234h24.516c0.547 0 1-0.453 1-1zM21.703 12.172c0-1.563-1.266-2.828-2.828-2.828s-2.828 1.266-2.828 2.828 1.266 2.828 2.828 2.828 2.828-1.266 2.828-2.828zM24.078 14.875l2.25-5.344h-1.109l-1.406 3.5-1.391-3.5h-1.109l2.219 5.344h0.547zM26.781 14.734h2.875v-0.875h-1.859v-1.406h1.797v-0.875h-1.797v-1.156h1.859v-0.891h-2.875v5.203zM32.891 14.734h1.25l-1.641-2.188c0.766-0.156 1.188-0.672 1.188-1.469 0-0.984-0.672-1.547-1.844-1.547h-1.516v5.203h1.016v-2.078h0.141zM36 4.094v19.812c0 1.156-0.922 2.094-2.063 2.094h-31.875c-1.141 0-2.063-0.938-2.063-2.094v-19.812c0-1.156 0.922-2.094 2.063-2.094h31.875c1.141 0 2.063 0.938 2.063 2.094z"&gt;&lt;/path&gt;
+&lt;/svg&gt;
+</y:Resource>
+      <y:Resource id="4">&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"&gt;
+&lt;svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36" height="28" viewBox="0 0 36 28"&gt;
+&lt;path d="M30.484 15.594c0 0.562-0.375 0.969-0.844 1.062-0.063 0.016-0.203 0.031-0.281 0.031h-2.391v-2.188h2.391c0.078 0 0.219 0.016 0.281 0.031 0.469 0.094 0.844 0.516 0.844 1.062zM30.203 12.266c0 0.547-0.375 0.906-0.828 0.984-0.047 0.016-0.156 0.016-0.234 0.016h-2.172v-2.016h2.172c0.078 0 0.187 0.016 0.234 0.016 0.453 0.078 0.828 0.453 0.828 1zM11.375 14.828v-4.813h-3.563v4.813c0 1.172-0.797 2.047-2.234 2.047-1.219 0-2.422-0.359-3.578-0.922v1.75c1.875 0.516 4.25 0.516 4.25 0.516 3.969 0 5.125-1.516 5.125-3.391zM22.531 17.703v-1.766c-0.812 0.422-1.844 0.828-3.125 0.922-2.25 0.172-3.594-0.922-3.594-2.859s1.344-3.031 3.594-2.859c1.281 0.094 2.297 0.484 3.125 0.906v-1.75c-1.672-0.422-3.25-0.484-3.25-0.484-5.5-0.25-7.063 1.922-7.063 4.188s1.563 4.438 7.063 4.188c0 0 1.578-0.063 3.25-0.484zM34 15.906c0-1.156-1.031-1.906-2.375-2v-0.047c1.219-0.172 1.891-0.969 1.891-1.891 0-1.188-0.984-1.875-2.312-1.937-0.094 0-0.266-0.016-0.406-0.016h-7.109v7.969h7.672c1.516 0 2.641-0.812 2.641-2.078zM36 4v20c0 1.094-0.906 2-2 2h-32c-1.094 0-2-0.906-2-2v-20c0-1.094 0.906-2 2-2h32c1.094 0 2 0.906 2 2z"&gt;&lt;/path&gt;
+&lt;/svg&gt;
+</y:Resource>
+      <y:Resource id="5">&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"&gt;
+&lt;svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36" height="28" viewBox="0 0 36 28"&gt;
+&lt;path d="M17.484 5.328c-1.297-0.859-2.828-1.328-4.391-1.328-4.391 0-7.953 3.563-7.953 7.938 0 4.391 3.563 7.953 7.953 7.953 1.563 0 3.094-0.469 4.391-1.328-4.188-3.406-4.156-9.828 0-13.234zM18 5.703c-4.031 3.172-4.047 9.328 0 12.484 4.047-3.156 4.031-9.312 0-12.484zM18.516 5.328c4.141 3.406 4.203 9.844 0 13.234 1.297 0.859 2.844 1.328 4.391 1.328 4.391 0 7.953-3.563 7.953-7.953 0-4.375-3.563-7.938-7.953-7.938-1.563 0-3.094 0.469-4.391 1.328zM30.094 16.609h0.109v-0.047h-0.266v0.047h0.109v0.266h0.047v-0.266zM30.547 16.875h0.063v-0.313h-0.078l-0.094 0.203-0.094-0.203h-0.078v0.313h0.047v-0.234l0.094 0.203h0.063l0.078-0.203v0.234zM30.422 23.75v0.031h-0.078v-0.047h0.078v0.016zM30.422 23.891h0.047l-0.063-0.078c0.031 0 0.031-0.016 0.047-0.016 0.016-0.016 0.016-0.031 0.016-0.047s0-0.031-0.016-0.047c-0.016 0-0.031-0.016-0.063-0.016h-0.094v0.203h0.047v-0.078h0.016zM10.703 22.828c0-0.375 0.234-0.672 0.641-0.672 0.375 0 0.625 0.297 0.625 0.672 0 0.391-0.25 0.672-0.625 0.672-0.406 0-0.641-0.297-0.641-0.672zM18.094 22.141c0.297 0 0.5 0.172 0.547 0.5h-1.094c0.047-0.297 0.234-0.5 0.547-0.5zM23.656 22.828c0-0.375 0.234-0.672 0.625-0.672s0.641 0.297 0.641 0.672c0 0.391-0.25 0.672-0.641 0.672s-0.625-0.297-0.625-0.672zM27.906 22.828c0-0.375 0.25-0.672 0.641-0.672 0.375 0 0.641 0.297 0.641 0.672 0 0.391-0.266 0.672-0.641 0.672-0.391 0-0.641-0.297-0.641-0.672zM30.375 23.953c-0.016 0-0.031 0-0.063-0.016-0.016 0-0.031-0.016-0.047-0.031s-0.031-0.031-0.031-0.047-0.016-0.047-0.016-0.063 0-0.047 0.016-0.063c0-0.031 0.016-0.047 0.031-0.063s0.031-0.016 0.047-0.031 0.047-0.016 0.063-0.016 0.047 0 0.063 0.016 0.047 0.016 0.063 0.031 0.016 0.031 0.031 0.063c0 0.016 0.016 0.031 0.016 0.063 0 0.016-0.016 0.031-0.016 0.063-0.016 0.016-0.016 0.031-0.031 0.047s-0.031 0.031-0.063 0.031c-0.016 0.016-0.031 0.016-0.063 0.016zM9.359 23.891h0.469v-1.328c0-0.5-0.328-0.828-0.844-0.844-0.266 0-0.547 0.078-0.734 0.375-0.141-0.234-0.375-0.375-0.703-0.375-0.219 0-0.438 0.078-0.609 0.313v-0.25h-0.469v2.109h0.469v-1.172c0-0.375 0.203-0.562 0.516-0.562s0.469 0.203 0.469 0.562v1.172h0.453v-1.172c0-0.375 0.219-0.562 0.516-0.562 0.313 0 0.469 0.203 0.469 0.562v1.172zM11.953 23.891h0.453v-2.109h-0.453v0.25c-0.156-0.187-0.375-0.313-0.672-0.313-0.594 0-1.047 0.469-1.047 1.109s0.453 1.109 1.047 1.109c0.297 0 0.516-0.109 0.672-0.313v0.266zM14.734 23.25c0-0.375-0.281-0.562-0.734-0.625l-0.219-0.031c-0.203-0.031-0.359-0.078-0.359-0.219s0.141-0.234 0.391-0.234c0.281 0 0.531 0.094 0.672 0.172l0.187-0.375c-0.219-0.141-0.516-0.219-0.859-0.219-0.531 0-0.875 0.266-0.875 0.688 0 0.344 0.25 0.547 0.734 0.609l0.203 0.031c0.266 0.047 0.375 0.109 0.375 0.219 0 0.172-0.172 0.266-0.484 0.266s-0.547-0.109-0.703-0.219l-0.203 0.359c0.25 0.172 0.562 0.266 0.906 0.266 0.609 0 0.969-0.281 0.969-0.688zM16.766 23.781l-0.125-0.391c-0.141 0.078-0.281 0.109-0.406 0.109-0.234 0-0.297-0.141-0.297-0.344v-0.953h0.75v-0.422h-0.75v-0.641h-0.469v0.641h-0.438v0.422h0.438v0.953c0 0.484 0.187 0.781 0.734 0.781 0.187 0 0.422-0.063 0.562-0.156zM18.109 21.719c-0.609 0-1.047 0.453-1.047 1.109 0 0.672 0.453 1.109 1.078 1.109 0.313 0 0.609-0.078 0.859-0.297l-0.219-0.344c-0.172 0.141-0.406 0.234-0.609 0.234-0.297 0-0.562-0.141-0.641-0.516h1.578v-0.187c0-0.656-0.406-1.109-1-1.109zM20.594 21.719c-0.266 0-0.438 0.125-0.547 0.313v-0.25h-0.469v2.109h0.469v-1.188c0-0.344 0.141-0.547 0.453-0.547 0.094 0 0.187 0.016 0.281 0.063l0.141-0.438c-0.109-0.047-0.234-0.063-0.328-0.063zM21.063 22.828c0 0.641 0.438 1.109 1.125 1.109 0.313 0 0.531-0.063 0.75-0.25l-0.219-0.375c-0.172 0.125-0.344 0.203-0.547 0.187-0.375 0-0.641-0.266-0.641-0.672s0.266-0.672 0.641-0.672c0.203 0 0.375 0.063 0.547 0.187l0.219-0.375c-0.219-0.172-0.438-0.25-0.75-0.25-0.688 0-1.125 0.469-1.125 1.109zM24.891 23.891h0.469v-2.109h-0.469v0.25c-0.141-0.187-0.359-0.313-0.656-0.313-0.594 0-1.062 0.469-1.062 1.109s0.469 1.109 1.062 1.109c0.297 0 0.516-0.109 0.656-0.313v0.266zM26.969 21.719c-0.266 0-0.438 0.125-0.547 0.313v-0.25h-0.453v2.109h0.453v-1.188c0-0.344 0.156-0.547 0.453-0.547 0.094 0 0.187 0.016 0.281 0.063l0.141-0.438c-0.094-0.047-0.234-0.063-0.328-0.063zM29.156 23.891h0.453v-2.969h-0.453v1.109c-0.141-0.187-0.359-0.313-0.672-0.313-0.578 0-1.047 0.469-1.047 1.109s0.469 1.109 1.047 1.109c0.313 0 0.531-0.109 0.672-0.313v0.266zM30.375 23.578c-0.016 0-0.047 0.016-0.078 0.016-0.031 0.016-0.047 0.031-0.063 0.047-0.031 0.016-0.047 0.047-0.047 0.063-0.016 0.031-0.016 0.063-0.016 0.094 0 0.016 0 0.047 0.016 0.078 0 0.016 0.016 0.047 0.047 0.063 0.016 0.016 0.031 0.031 0.063 0.047s0.063 0.016 0.078 0.016c0.031 0 0.063 0 0.094-0.016 0.016-0.016 0.047-0.031 0.063-0.047s0.031-0.047 0.047-0.063c0.016-0.031 0.016-0.063 0.016-0.078 0-0.031 0-0.063-0.016-0.094-0.016-0.016-0.031-0.047-0.047-0.063s-0.047-0.031-0.063-0.047c-0.031 0-0.063-0.016-0.094-0.016zM36 4v20c0 1.094-0.906 2-2 2h-32c-1.094 0-2-0.906-2-2v-20c0-1.094 0.906-2 2-2h32c1.094 0 2 0.906 2 2z"&gt;&lt;/path&gt;
+&lt;/svg&gt;
+</y:Resource>
+      <y:Resource id="6">&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"&gt;
+&lt;svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36" height="28" viewBox="0 0 36 28"&gt;
+&lt;path d="M11.641 14.156c0 0.766-0.609 1.344-1.375 1.344-0.578 0-1-0.328-1-0.938 0-0.766 0.594-1.375 1.359-1.375 0.578 0 1.016 0.359 1.016 0.969zM23.906 11.828c0 0.938-0.562 1.125-1.375 1.125l-0.5 0.016 0.266-1.672c0.016-0.109 0.094-0.172 0.203-0.172h0.281c0.531 0 1.125 0.031 1.125 0.703zM29.391 14.156c0 0.766-0.609 1.344-1.359 1.344-0.578 0-1.016-0.328-1.016-0.938 0-0.766 0.594-1.375 1.359-1.375 0.578 0 1.016 0.359 1.016 0.969zM8.016 11.484c0-1.313-1.016-1.75-2.172-1.75h-2.5c-0.156 0-0.313 0.125-0.328 0.297l-1.016 6.375c-0.016 0.125 0.078 0.25 0.203 0.25h1.188c0.172 0 0.328-0.125 0.344-0.297l0.281-1.719c0.063-0.453 0.828-0.297 1.125-0.297 1.781 0 2.875-1.062 2.875-2.859zM12.844 16.359l0.641-4.078c0.016-0.125-0.078-0.25-0.203-0.25h-1.188c-0.234 0-0.25 0.344-0.266 0.516-0.359-0.531-0.891-0.625-1.484-0.625-1.531 0-2.703 1.344-2.703 2.828 0 1.219 0.766 2.016 1.984 2.016 0.562 0 1.266-0.25 1.656-0.688-0.031 0.094-0.063 0.234-0.063 0.328 0 0.141 0.063 0.25 0.203 0.25h1.078c0.172 0 0.313-0.125 0.344-0.297zM19.828 12.25c0-0.109-0.094-0.219-0.203-0.219h-1.203c-0.109 0-0.219 0.063-0.281 0.156l-1.656 2.438-0.688-2.344c-0.047-0.141-0.187-0.25-0.344-0.25h-1.172c-0.109 0-0.203 0.109-0.203 0.219 0 0.078 1.219 3.609 1.328 3.938-0.172 0.234-1.281 1.687-1.281 1.875 0 0.109 0.094 0.203 0.203 0.203h1.203c0.109 0 0.219-0.063 0.281-0.156l3.984-5.75c0.031-0.031 0.031-0.063 0.031-0.109zM25.766 11.484c0-1.313-1.016-1.75-2.172-1.75h-2.484c-0.172 0-0.328 0.125-0.344 0.297l-1.016 6.375c-0.016 0.125 0.078 0.25 0.203 0.25h1.281c0.125 0 0.219-0.094 0.25-0.203l0.281-1.813c0.063-0.453 0.828-0.297 1.125-0.297 1.781 0 2.875-1.062 2.875-2.859zM30.594 16.359l0.641-4.078c0.016-0.125-0.078-0.25-0.203-0.25h-1.188c-0.234 0-0.25 0.344-0.266 0.516-0.344-0.531-0.875-0.625-1.484-0.625-1.531 0-2.703 1.344-2.703 2.828 0 1.219 0.766 2.016 1.984 2.016 0.578 0 1.281-0.25 1.656-0.688-0.016 0.094-0.063 0.234-0.063 0.328 0 0.141 0.063 0.25 0.203 0.25h1.078c0.172 0 0.313-0.125 0.344-0.297zM34 9.969v-0.016c0-0.125-0.094-0.219-0.203-0.219h-1.156c-0.094 0-0.187 0.078-0.203 0.172l-1.016 6.5-0.016 0.031c0 0.109 0.094 0.219 0.219 0.219h1.031c0.156 0 0.313-0.125 0.328-0.297zM6.125 12.063c-0.125 0.797-0.656 0.891-1.344 0.891l-0.516 0.016 0.266-1.672c0.016-0.109 0.109-0.172 0.203-0.172h0.297c0.703 0 1.234 0.094 1.094 0.938zM36 4v20c0 1.094-0.906 2-2 2h-32c-1.094 0-2-0.906-2-2v-20c0-1.094 0.906-2 2-2h32c1.094 0 2 0.906 2 2z"&gt;&lt;/path&gt;
+&lt;/svg&gt;
+</y:Resource>
+      <y:Resource id="7">&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"&gt;
+&lt;svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36" height="28" viewBox="0 0 36 28"&gt;
+&lt;path d="M24.953 14.109c0 0.719-0.109 1.266-0.328 1.656-0.187 0.344-0.484 0.547-0.812 0.547-0.234 0-0.453-0.047-0.641-0.141v-3.5c0.406-0.422 0.766-0.469 0.891-0.469 0.594 0 0.891 0.656 0.891 1.906zM31.797 13.547h-1.719c0.063-1.047 0.344-1.531 0.875-1.531s0.812 0.5 0.844 1.531zM7.438 15.656c0-1.313-0.797-1.859-2.094-2.328v0c-0.688-0.25-1.062-0.453-1.062-0.766 0-0.266 0.219-0.406 0.594-0.406 0.719 0 1.437 0.266 1.937 0.516l0.281-1.75c-0.391-0.187-1.203-0.5-2.328-0.5-0.797 0-1.453 0.203-1.922 0.594-0.5 0.406-0.75 1-0.75 1.703 0 1.281 0.781 1.844 2.063 2.297 0.812 0.297 1.094 0.5 1.094 0.828 0 0.313-0.266 0.484-0.75 0.484-0.594 0-1.578-0.297-2.219-0.672l-0.281 1.766c0.547 0.313 1.563 0.641 2.625 0.641 0.844 0 1.531-0.203 2.016-0.578 0.531-0.422 0.797-1.031 0.797-1.828zM12.047 12.297l0.297-1.734h-1.5v-2.109l-2.016 0.328-0.281 1.781-0.719 0.125-0.266 1.609h0.969v3.422c0 0.891 0.234 1.5 0.688 1.875 0.391 0.313 0.953 0.469 1.734 0.469 0.609 0 0.969-0.109 1.234-0.172v-1.844c-0.141 0.031-0.469 0.109-0.688 0.109-0.453 0-0.656-0.25-0.656-0.781v-3.078h1.203zM16.984 12.688v-2.172c-0.156-0.031-0.297-0.047-0.438-0.047-0.656 0-1.188 0.344-1.391 0.969l-0.156-0.875h-2.047v7.359h2.344v-4.781c0.297-0.359 0.719-0.484 1.281-0.484 0.125 0 0.25 0 0.406 0.031zM17.563 17.922h2.344v-7.359h-2.344v7.359zM27.281 14.031c0-1.25-0.234-2.203-0.703-2.797-0.422-0.547-1-0.812-1.734-0.812-0.672 0-1.266 0.281-1.828 0.875l-0.125-0.734h-2.063v10.078l2.344-0.391v-2.359c0.359 0.109 0.734 0.172 1.062 0.172 0.578 0 1.437-0.156 2.094-0.875 0.641-0.688 0.953-1.75 0.953-3.156zM19.969 8.594c0-0.688-0.547-1.234-1.234-1.234s-1.234 0.547-1.234 1.234 0.547 1.25 1.234 1.25 1.234-0.562 1.234-1.25zM34 14.172c0-1.172-0.25-2.094-0.75-2.75-0.516-0.656-1.281-1-2.25-1-2 0-3.234 1.469-3.234 3.844 0 1.313 0.328 2.312 0.984 2.938 0.578 0.578 1.422 0.859 2.516 0.859 1 0 1.922-0.234 2.5-0.625l-0.25-1.609c-0.578 0.313-1.25 0.484-2 0.484-0.453 0-0.766-0.094-0.984-0.297-0.25-0.203-0.391-0.547-0.438-1.031h3.875c0.016-0.109 0.031-0.641 0.031-0.812zM36 4v20c0 1.094-0.906 2-2 2h-32c-1.094 0-2-0.906-2-2v-20c0-1.094 0.906-2 2-2h32c1.094 0 2 0.906 2 2z"&gt;&lt;/path&gt;
+&lt;/svg&gt;
+</y:Resource>
+      <y:Resource id="8">&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"&gt;
+&lt;svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36" height="28" viewBox="0 0 36 28"&gt;
+&lt;path d="M30.859 15.469h-2.156c0 0 0.219-0.578 1.031-2.797-0.016 0.016 0.219-0.578 0.344-0.953l0.187 0.859c0.484 2.391 0.594 2.891 0.594 2.891zM8.297 14.453l-0.906-4.609c-0.125-0.641-0.609-0.844-1.172-0.844h-4.188l-0.031 0.203c2.875 0.734 5.234 2.297 6.297 5.25zM11.094 9l-2.531 6.844-0.266-1.391c-0.547-1.453-1.875-2.797-3.375-3.406l2.109 7.969h2.734l4.078-10.016h-2.75zM13.266 19.031h2.594l1.625-10.031h-2.594zM25.266 9.25c-0.516-0.203-1.328-0.422-2.328-0.422-2.562 0-4.359 1.359-4.375 3.313-0.016 1.437 1.281 2.234 2.266 2.719 1.016 0.484 1.344 0.812 1.344 1.25 0 0.672-0.812 0.969-1.547 0.969-1.047 0-1.609-0.125-2.438-0.516l-0.344-0.172-0.359 2.25c0.609 0.281 1.719 0.531 2.891 0.531 2.719 0.016 4.484-1.344 4.516-3.422 0-1.141-0.703-2-2.188-2.719-0.906-0.453-1.453-0.781-1.453-1.25 0-0.422 0.469-0.859 1.484-0.859 0.844-0.016 1.469 0.156 1.937 0.375l0.234 0.125zM31.906 9h-2c-0.625 0-1.094 0.187-1.359 0.844l-3.844 9.188h2.719c0.438-1.234 0.547-1.5 0.547-1.5h3.313c0 0 0.078 0.344 0.313 1.5h2.406zM36 4v20c0 1.094-0.906 2-2 2h-32c-1.094 0-2-0.906-2-2v-20c0-1.094 0.906-2 2-2h32c1.094 0 2 0.906 2 2z"&gt;&lt;/path&gt;
+&lt;/svg&gt;
+</y:Resource>
+      <y:Resource id="9">&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"&gt;
+&lt;svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36" height="28" viewBox="0 0 36 28"&gt;
+&lt;path d="M0 23.5v-9.5h36v9.5c0 1.375-1.125 2.5-2.5 2.5h-31c-1.375 0-2.5-1.125-2.5-2.5zM10 20v2h6v-2h-6zM4 20v2h4v-2h-4zM33.5 2c1.375 0 2.5 1.125 2.5 2.5v3.5h-36v-3.5c0-1.375 1.125-2.5 2.5-2.5h31z"&gt;&lt;/path&gt;
+&lt;/svg&gt;
+</y:Resource>
+      <y:Resource id="10">&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"&gt;
+&lt;svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="28" viewBox="0 0 30 28"&gt;
+&lt;path d="M27.5 2c1.375 0 2.5 1.125 2.5 2.5v19c0 1.375-1.125 2.5-2.5 2.5h-25c-1.375 0-2.5-1.125-2.5-2.5v-19c0-1.375 1.125-2.5 2.5-2.5h25zM2.5 4c-0.266 0-0.5 0.234-0.5 0.5v3.5h26v-3.5c0-0.266-0.234-0.5-0.5-0.5h-25zM27.5 24c0.266 0 0.5-0.234 0.5-0.5v-9.5h-26v9.5c0 0.266 0.234 0.5 0.5 0.5h25zM4 22v-2h4v2h-4zM10 22v-2h6v2h-6z"&gt;&lt;/path&gt;
+&lt;/svg&gt;
+</y:Resource>
+      <y:Resource id="11">&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"&gt;
+&lt;svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28" height="28" viewBox="0 0 28 28"&gt;
+&lt;path d="M6.891 10.5c0.313 0 0.625 0.156 0.812 0.406 2.734 3.734 4.641 7.734 5.656 12.094h-6.969c-1.25-4.344-3.094-8.313-5.734-11.703-0.25-0.328 0-0.797 0.406-0.797h5.828zM15.625 16.078c-0.516 2.109-1.172 4.156-1.953 6.141-0.828-3.266-2.156-6.328-4-9.281 0.406-2.266 0.641-4.594 0.688-7.016 2.203 3.547 3.953 6.922 5.266 10.156zM17.172 5c4.672 6.438 8.141 14.375 8.891 23h-7.047c-0.516-8.344-4.359-16.25-8.641-23h6.797zM28 14c0 4.344-0.594 8.906-1.578 12.688-0.688-5.781-2.594-11.531-5.609-16.922-0.266-3.156-0.828-6.219-1.656-9.125-0.078-0.328 0.156-0.641 0.484-0.641h5.609c0.438 0 0.844 0.297 0.953 0.719 1.188 4.219 1.797 8.687 1.797 13.281z"&gt;&lt;/path&gt;
+&lt;/svg&gt;
+</y:Resource>
+      <y:Resource id="12">&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"&gt;
+&lt;svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="28" viewBox="0 0 24 28"&gt;
+&lt;path d="M23.734 10.094v0c0.203 0.938 0.156 2.016-0.063 3.187-1.016 5.156-4.438 6.937-8.828 6.937h-0.688c-0.531 0-0.969 0.391-1.062 0.922l-0.063 0.297-0.859 5.406-0.031 0.234c-0.109 0.531-0.547 0.922-1.078 0.922h-3.922c-0.438 0-0.719-0.359-0.656-0.797 0.281-1.75 0.547-3.5 0.828-5.25s0.562-3.484 0.844-5.234c0.047-0.375 0.297-0.578 0.672-0.578 0.625 0 1.25-0.016 2.047 0 1.125 0.016 2.422-0.047 3.687-0.328 1.687-0.375 3.219-1.062 4.484-2.25 1.141-1.062 1.906-2.375 2.422-3.844 0.234-0.688 0.422-1.375 0.547-2.078 0.031-0.187 0.078-0.156 0.187-0.078 0.859 0.641 1.344 1.5 1.531 2.531zM21.047 5.688c0 1.281-0.297 2.5-0.719 3.687-0.812 2.359-2.344 4.047-4.719 4.922-1.266 0.453-2.594 0.641-3.938 0.656-0.938 0.016-1.875 0-2.812 0-1.016 0-1.656 0.5-1.844 1.5-0.219 1.188-1.078 6.719-1.328 8.281-0.016 0.109-0.063 0.156-0.187 0.156h-4.609c-0.469 0-0.812-0.406-0.75-0.859l3.625-22.984c0.094-0.594 0.625-1.047 1.234-1.047h9.344c0.672 0 2.219 0.297 3.266 0.703 2.219 0.859 3.437 2.609 3.437 4.984z"&gt;&lt;/path&gt;
+&lt;/svg&gt;
+</y:Resource>
+    </y:Resources>
+  </data>
+</graphml>

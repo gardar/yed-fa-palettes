@@ -1,0 +1,11 @@
+check-square.svg
+check-square-o.svg
+circle.svg
+circle-o.svg
+dot-circle-o.svg
+minus-square.svg
+minus-square-o.svg
+plus-square.svg
+plus-square-o.svg
+square.svg
+square-o.svg

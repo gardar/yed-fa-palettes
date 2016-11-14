@@ -1,0 +1,5 @@
+circle-o-notch.svg
+cog.svg
+gear.svg
+refresh.svg
+spinner.svg
